@@ -1,2 +1,5 @@
-# aj-jrp.github.io
-A game inspired and buzy-developped since January 2017 - purpose being sensitive univers at animal life
+# Les cousins de l'île interprêtent l'univers d'Appel-Jack et de ses aventures.
+
+## The Game - Le Jeu:
+
+Part1: [Présentation-Projet]
